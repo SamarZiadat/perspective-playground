@@ -1,6 +1,6 @@
-# Vue Perspectives Playground
+# Vue Perspective Playground
 
-A playground I created for as part of a Vue course I was taking on Udemy. 
+A playground I created as part of a Vue course I was taking on Udemy. 
 
 Vue fundamentals explored in this playground include:
 
